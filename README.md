@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabann&label=Profile%20views&color=0e75b6&style=flat" alt="gabann" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabann" alt="gabann" /></a> </p>
-
 - 🌱 I’m currently learning **Vue, React, Express, Redux, Java**
 
 - 📫 How to reach me **gabin.deboulogne@gmail.com**

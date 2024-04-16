@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabann&label=Profile%20views&color=0e75b6&style=flat" alt="gabann" /> </p>
 
-- 🔭 I’m currently working at [M2I formation](https://www.m2iformation.fr/)
+- 🔭 I’m currently studying computer science at [M2I formation](https://www.m2iformation.fr/)
 
 - 🌱 I’m currently learning **Java, TDD, Spring, Docker, CI/CD**
 

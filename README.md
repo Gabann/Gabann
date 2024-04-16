@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, TDD, Spring, Docker, CI/CD**
 
-- 👨‍💻 All of my projects are available at [porfolio.link](porfolio.link)
+- 👨‍💻 All of my projects are available at my [porfolio](portfolio.gaban.fr)
 
 - 📫 How to reach me **gabin.deboulogne@gmail.com**
 

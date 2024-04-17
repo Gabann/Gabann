@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gabin.deboulogne@gmail.com**
 
-- 📄 Know about my experiences [resume.link](resume.link)
+- 📄 Know about my experiences with my [resume](https://portfolio.gaban.fr/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

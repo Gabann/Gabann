@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaban</h1>
-<h3 align="center">A student in software design and development who will graduate in january 2025</h3>
+<h3 align="center">A student in software and web development looking for a work-study placement starting in november 2025</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabann&label=Profile%20views&color=0e75b6&style=flat" alt="gabann" /> </p>
 
-- 🔭 I’m currently studying computer science at [M2I formation](https://www.m2iformation.fr/)
+- 🔭 I recenntly gratuated in computer science at [M2I formation](https://www.m2iformation.fr/)
 
-- 🌱 I’m currently learning **Java, TDD, Spring, Docker, CI/CD**
+- 🌱 My main languages are Java, Javascript / Typescript and C#
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://portfolio.gaban.fr)
 
